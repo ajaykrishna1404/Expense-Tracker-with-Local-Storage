@@ -28,7 +28,7 @@ A simple and responsive **Expense Tracker** web application built using **HTML5*
 
 ```
 
-expense-tracker/
+expense-tracker-with-local-storage/
 │
 ├── index.html         # HTML layout of the tracker
 ├── style.css          # Styling for form, layout, and components
@@ -60,9 +60,3 @@ This project is open-source and free to use for personal and educational purpose
 ## 🙌 Acknowledgments
 
 Inspired by real-world budget tracking needs and created to demonstrate essential **front-end web development** skills.
-```
-
----
-
-Let me know if you'd like a shorter version for LinkedIn, or a version ready for GitHub Pages deployment!
-
